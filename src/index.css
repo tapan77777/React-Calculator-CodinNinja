@@ -1,0 +1,10 @@
+/* Apply a gradient background to the entire page */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(90deg, #808080, #000); /* Gradient background from gray to black */
+  font-family: Arial, sans-serif;
+}
+
+/* Rest of your CSS rules for other elements */
